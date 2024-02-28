@@ -1,3 +1,4 @@
+![Alt text](/learning-regression/regress.png?raw=true "Screenshot")
 This script dynamically visualizes a simple linear regression model on a continuously updating dataset, using a First In, First Out (FIFO) strategy for data management. Here's a summary of its key functionalities:
 
 1. **Initial Setup**: It initializes a FIFO dataset with a predefined size, generating initial sets of independent (\(x\)) and dependent (\(y\)) variable data points based on random normal distributions. This simulates a real-world scenario where data comes in streams or batches.
